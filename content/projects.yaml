@@ -1,17 +1,17 @@
-- name: InstaEx - Instant Cryptocurrency Exchange
-  url: https://instaex.io
-  description: Privacy focused instant cryptocurrency exchange with no limits on amount you can trade
+- name: n.exchange - Instant Cryptocurrency Exchange
+  url: https://beta.n.exchange
+  description: Instant non-custodial crypto exchange with low fees
   status: live
   tags:
-    - ReactJS
-    - Tailwind CSS
+    - Nextjs
+    - Emotion CSS
   # icon: website
-# - name: Example 2
-#   url: https://github.com
-#   description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
-#   status: live
-#   tags:
-#     - JavaScript
-#     - HTML
-#   icon: website
-#   image: images/project.jpg
+
+- name: Moneyfront - Invest in direct mutual funds
+  url: https://moneyfront-website.netlify.app/
+  description: Comfort of investing in Direct Plans of Mutual fund schemes that gives superior returns as compared to regular schemes
+  status: live
+  tags:
+    - Gatsby
+    - SCSS
+  # icon: github
