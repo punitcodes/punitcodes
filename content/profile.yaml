@@ -1,0 +1,30 @@
+- profile:
+  initials: PM
+  name: Punit Makwana
+  email: f/xqkglrqy
+  profession: Frontend Developer
+  image: images/profile.jpg
+  location: Mumbai, IN
+  relocation: true
+  company: n.exchange
+  for_hire: true
+  focus: Learning GraphQL
+  focus_url: https://www.howtographql.com/
+  about: |
+    Hi 👋 I am a frontend developer specializing in React and its frameworks (Nextjs & Gatsby) wIth demonstrated history of working in the fintech and crypto industry. When not in front of a monitor, I am most likely out with friends, exploring the unexplored.
+
+    Remote: Yes 
+    Willing to relocate: Yes
+  skills:
+    - React
+    - TS / JS
+    - HTML / CSS
+  tools:
+    - Nextjs / Gatsby
+    - Emotion / SCSS
+    - RTL / Jest
+  budget:
+    currency: $
+    min: 5
+    max: 100
+    default: 10
